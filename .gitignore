@@ -11,7 +11,7 @@ QLMarkdown/*
 
 # xcode 4 user noise
 *.xcworkspace
-xcuserdata
+xcuserdata/
 *.perspectivev3
 
 # old skool
